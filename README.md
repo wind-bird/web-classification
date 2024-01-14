@@ -1,2 +1,2 @@
-# scifare-2023
+# web class
 csv files
